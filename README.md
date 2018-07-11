@@ -12,6 +12,6 @@ OpenStreetMap is open data: you are free to use it for any purpose as long as yo
 
 **Tools used in QGIS**
 
-- OSMDownloader plugin used for downloading OSM data in college campus area, it is one of the easy way to download the OpenStreetMap data, but it downloads everything in selected area and the formate of this data is `.osm` so we have to convert this data into shapefiles for editing.
+- OSMDownloader plugin used for downloading OSM data in college campus area, it is one of the easy way to download the OpenStreetMap data, but it downloads everything in selected area and the format of this data is `.osm` so we have to convert this data into shapefiles for editing.
 - Openlayer plugin for editing OpenStreetMap data on QGIS desktop using various satellite image layers like Bing, Google, etc. and this plugin has many layers those we can open in QGIS Desktop.
-- Qgis2threejs plugin, this plugin is usefull for creating 3D features from shapefile data, in this plugin we can create 3D objects like Sphere, cube, Cylindar, Cone, Cuboid, Triangular Pyramid, Square pyramid and Triangular Prism we can create these basic shapes using vector data. based on thes bacic shapes we can create various 3D features like Buildings, trees, benches, etc.
+- Qgis2threejs plugin, this plugin is usefull for creating 3D features from shapefile data, in this plugin we can create 3D objects like Sphere, Cube, Cylindar, Cone, Cuboid, Triangular Pyramid, Square pyramid and Triangular Prism we can create these basic shapes using vector data. based on these bacic shapes we can create various 3D features like Buildings, trees, benches, etc.
